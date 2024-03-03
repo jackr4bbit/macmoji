@@ -35,14 +35,14 @@ Coming soon:tm:
 
 ## Dependencies
 
-This project has 3 main dependencies, all **required for MacMoji to work** :gear:
+This project requires Python 3.10 or higher, and has 2 main dependencies, all **required for MacMoji to work** :gear:
 
 - [`cairo`](https://formulae.brew.sh/formula/cairo)
 - [`libffi`](https://formulae.brew.sh/formula/libffi)
 
 All can be installed via [Homebrew](https://brew.sh):
 ```bash
-brew install cairo libffi git-lfs
+brew install cairo libffi
 ```
 
 ## User installation
